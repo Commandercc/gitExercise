@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         //修改了此文件
         print("第二次修改了此文件，在feature/f2分支下")
         print("f2再次修改")
+        
+        //再次提交 f2
+        print("f2 ---")
     }
 
 
