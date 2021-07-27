@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  F1ViewController.swift
 //  MyAppForGitTest
 //
 //  Created by zhengxu on 2021/7/27.
@@ -7,13 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class F1ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //修改了此文件
-    }
 
+    }
+    
 
 }
-
