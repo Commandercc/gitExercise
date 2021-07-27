@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         
         //再次提交 f2
         print("f2 ---")
+        
+        //再次提交 f2
+        print("f2 ---")
     }
 
 
